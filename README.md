@@ -1,4 +1,4 @@
-# Flacuties Week two code challenge.
+# Flacuties Week 2: Code Challenge.
 
 This is a simple app to conduct a poll to choose the cutest animal!
 Iam to create the front-end for the app.
