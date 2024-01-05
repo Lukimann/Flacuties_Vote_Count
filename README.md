@@ -22,8 +22,8 @@ The bonus deliverables are meant to give me a bit of an extra  challengewant an 
 	1. Add a reset button that resets the votes back to 0
 	2.Have a form for adding animals.
 
-##Contributors
+## Contributors
 
-###Samuel Maingi
-###Maureen Murimi
+### Samuel Maingi
+### Maureen Murimi
 
