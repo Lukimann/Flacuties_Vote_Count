@@ -24,6 +24,6 @@ The bonus deliverables are meant to give me a bit of an extra  challengewant an 
 
 ## Contributors
 
-### Samuel Maingi
-### Maureen Murimi
+1. Samuel Maingi
+2. Maureen Murimi
 
